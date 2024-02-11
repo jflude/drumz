@@ -1,4 +1,9 @@
-# Splice Interview Exercise - Justin Flude - Drum Machine
+# Splice Interview Exercise
+
+A simulation of a simple drum machine.
+
+Copyright (c) 2020 Justin Flude <justin_flude@hotmail.com>.
+All rights reserved.
 
 ## How to Test and Build
 
